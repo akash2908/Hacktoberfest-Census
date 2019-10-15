@@ -1,6 +1,6 @@
-# Hacktoberfest Census
+# Hacktoberfest Census 2k19
 
-A census of those participating in Hacktoberfest (and an easy PR!)
+A census of those participating in Hacktoberfest 2k19(and an easy PR!)
 
 This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census). It's automatically updated every time a PR is accepted!
 
@@ -20,7 +20,7 @@ I would encourage everyone who participates in this project to not count it as o
 
 Have a great Hacktoberfest ya'll and happy hacking!
 
- - Cutwell, 2018
+ - Cutwell, 2019
 
 ### Contributing
 Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a pull request to add your name to this repository like so:
